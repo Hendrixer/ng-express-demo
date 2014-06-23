@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "",
+  "dependencies": {
+    "bootstrap-css-only": "*",
+    "angular": "*" ,
+    "angular-touch": "*",
+    "ng-Fx": "*",
+    "angular-ui-router": "*"
+  }
+}
+
